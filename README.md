@@ -8,10 +8,11 @@
 Программа написана на языке Python в среде разработке PyCharm. Открывать следует файл lab6.py, нужно ввести количество критериев, данные попарного сравнения критериев.
 
 # Тест 1
-![image](https://github.com/gudzame/Saati/assets/146566358/a78b7af6-6f29-40cc-bfc1-a65c948d6a99)
+![image](https://github.com/gudzame/Saati/assets/146566358/4d3e8bf8-84b6-434b-8e31-a855b4a78a5e)
 
 # Тест 2
-![image](https://github.com/gudzame/Saati/assets/146566358/03be5f15-f9b6-4d3f-af55-7315a9cf4c21)
+![image](https://github.com/gudzame/Saati/assets/146566358/0a0f606f-553a-4355-a2d7-295b0b45f9a6)
 
 # Тест 3
-![image](https://github.com/gudzame/Saati/assets/146566358/9462713a-3be5-4ad8-8cad-888fa1fa84da)
+![image](https://github.com/gudzame/Saati/assets/146566358/c09354d2-8a2b-4791-a2b9-7b4a004c8758)
+
